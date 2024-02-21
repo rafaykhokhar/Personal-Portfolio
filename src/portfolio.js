@@ -17,7 +17,7 @@ const greeting = {
   subTitle:
     "Mobile application developer seamlessly integrating machine learning models into innovative apps, transforming data into intelligent experiences.",
   resumeLink:
-    "https://drive.google.com/file/d/1cLl4uJPdMnxu9zGSJg1N99w0sDKlDi1J/view?usp=sharing",
+    "https://drive.google.com/file/d/1pLTU3Q7_KrGlCSDzwu9uMXrTi62vSbdy/view",
   mail: "rafaykhokhar.ra@gmail.com",
 };
 
